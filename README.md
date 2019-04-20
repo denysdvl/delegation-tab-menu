@@ -1,6 +1,6 @@
 ## This is an delegation-tab-menu<h2>
         
-You ** can ** combine this with your web project
+You **can** combine this with your web project
 
 
 ```javascript
